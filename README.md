@@ -3,9 +3,13 @@
 
 Landing site for **Legal-Rights-Assistance** linking to the interactive Streamlit demo. Built with Vite, React (TypeScript), and Tailwind CSS. Deploy to Vercel for fast global hosting.
 
-Live demo (landing): https://legal-rights-assistance.vercel.app/
+## Live Demo
 
-Streamlit backend demo: (link from landing page)
+🌐 **Landing Website:**  
+[https://legal-rights-assistance.vercel.app/](https://legal-rights-assistance.vercel.app/)
+
+🤖 **AI Legal Assistant (Streamlit App):**  
+[https://legal-rights-assistance.streamlit.app/](https://legal-rights-assistance.streamlit.app/)
 
 ---
 
